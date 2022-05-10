@@ -1,3 +1,3 @@
 # 组合Input&Select
 
-<Device-Main />
+<Input_Select-Main />

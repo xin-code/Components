@@ -11,10 +11,6 @@ module.exports = config = {
         link: '/'
       },
       {
-        text: '组件',
-        link: '/Components/'
-      },
-      {
         text: 'Element-UI',
         link: '/Element-UI/'
       },
