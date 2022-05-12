@@ -4,7 +4,7 @@ heroImage: https://avatars.githubusercontent.com/u/32591789?v=4
 heroText: Xin
 tagline: Born to win.
 actionText: 开始探索之旅 →
-actionLink: /components/
+actionLink: /Element-UI/
 features:
 - title: 技术
   details: 前端开发以Vue为主
