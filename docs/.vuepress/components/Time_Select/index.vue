@@ -49,8 +49,4 @@ export default {
 </script>
 
 <style>
-table {
-  width: 123%;
-  margin-left: -100px;
-}
 </style>
